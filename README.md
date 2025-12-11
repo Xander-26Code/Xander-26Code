@@ -1,10 +1,15 @@
-## Hi there 👋
-- 🤔 I’m looking for help with machine learning 
-- 🧐 I'm major in computer science and want to get high GPA and make some money
-- I'm studying pyhton and java, also machine learning now😅
+## Hi there 
+#### *Haoning Xu*
+
+- Skills: java, python, machine learning, PyTorch, springboot, vue.js
+- Currently Studying: Deep learning, web development.
+- Research: natural language processing, computer vision.
 
 
-<!--
-**Xander-26Code/Xander-26Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xander-26Code)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
