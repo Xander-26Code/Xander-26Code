@@ -6,9 +6,7 @@
 - Research: natural language processing, computer vision.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xander-26Code)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xander-26Code&theme=tokyonight-duo&hide_border=true&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 
 
