@@ -7,7 +7,3 @@
 - Research interests: Natural language processing, computer vision.
 
 
-
-![Xander's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Xander-26Code&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xander-26Code&layout=compact&theme=onedark)
-
