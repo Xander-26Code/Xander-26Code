@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Xander — Haoning Xu</title>
+  <desc id="desc">Learn the internals. Build something useful. A geometric network connects AI, systems, and applications.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" opacity=".13"/></pattern>
+    <linearGradient id="plane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a5f3cf" stop-opacity=".1"/><stop offset="1" stop-color="#a5f3cf" stop-opacity=".01"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#82e8b5"/><stop offset="1" stop-color="#5a9fb8"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="429" rx="20" fill="#0d151c" stroke="#273740"/>
+  <rect x="665" y="25" width="509" height="340" fill="url(#grid)"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2">
+    <text x="48" y="49" fill="#9babaf">XANDER-26CODE</text>
+    <circle cx="955" cy="44" r="4" fill="#a5f3cf"/>
+    <text x="971" y="49" fill="#a5f3cf">ALWAYS LEARNING</text>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="42" y="183" font-size="108" font-weight="750" letter-spacing="-7" fill="#f1f1e8">Xander<tspan fill="#a5f3cf">.</tspan></text>
+    <text x="48" y="226" font-size="22" fill="#a7b7bd">Haoning Xu <tspan fill="#526b76">/</tspan> Developer &amp; AI explorer</text>
+    <text x="48" y="292" font-size="24" font-weight="500" fill="#e0e8e5">Learn the internals.</text>
+    <text x="48" y="325" font-size="24" fill="#a5f3cf">Build something useful.</text>
+  </g>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M731 285 891 194 1089 257 928 350Z" stroke="#354e5b" fill="url(#plane)"/>
+    <path d="M731 219 891 128 1089 191 928 284Z" stroke="#527b81" fill="url(#plane)"/>
+    <path d="M731 153 891 62 1089 125 928 218Z" stroke="url(#edge)" stroke-width="1.5" fill="url(#plane)"/>
+    <path d="M731 153V285M891 62V194M1089 125V257M928 218V350" stroke="#608087" stroke-dasharray="3 6" opacity=".6"/>
+    <path d="m771 142 149 49 128-73m-196-31 149 49-128 73M808 109l148 50m-71-90 148 50M790 173l128-73m-57 95 127-73" stroke="#a5f3cf" opacity=".24"/>
+    <path d="m820 181 86 73 98-44m-98 44-46 32m46-32 76 59" stroke="#a5f3cf" stroke-width="2"/>
+  </g>
+  <g fill="#0d151c" stroke="#a5f3cf" stroke-width="2">
+    <circle cx="820" cy="181" r="6"/><circle cx="906" cy="254" r="7"/><circle cx="1004" cy="210" r="6"/><circle cx="860" cy="286" r="5"/><circle cx="982" cy="313" r="5"/>
+  </g>
+  <circle cx="906" cy="254" r="3" fill="#a5f3cf"/>
+  <g font-family="'SFMono-Regular',Consolas,monospace" font-size="11" fill="#89a4ae" letter-spacing="1.5">
+    <text x="1040" y="91">IDEAS</text><text x="1046" y="229">CODE</text><text x="1030" y="318">SYSTEMS</text>
+  </g>
+  <path d="M48 370H1152" stroke="#2a3b43"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.5" fill="#8fa4ac">
+    <text x="48" y="403">AI &amp; MACHINE LEARNING</text>
+    <text x="470" y="403">COMPUTER SYSTEMS</text>
+    <text x="885" y="403">FULL-STACK DEVELOPMENT</text>
+  </g>
+</svg>
