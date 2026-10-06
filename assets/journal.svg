@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">xander-journal — my learning, written down</title>
+  <desc id="desc">My main project: learning notes on Python, operating systems, and algorithms. An open notebook connects questions, code, and understanding.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9dcfbb" opacity=".16"/></pattern>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#244d43"/><stop offset="1" stop-color="#193b36"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#102b27" stroke="#385b4e" stroke-width="2"/>
+  <rect x="704" y="20" width="465" height="260" fill="url(#dots)"/>
+  <g font-family="Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing="2" fill="#a5f3cf">
+    <circle cx="46" cy="44" r="4"/>
+    <text x="61" y="49">MY MAIN PROJECT / LEARNING NOTES</text>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="38" y="132" font-size="70" font-weight="700" letter-spacing="-2.5" fill="#f1f1e8">xander-journal<tspan fill="#a5f3cf"> ↗</tspan></text>
+    <text x="42" y="180" font-size="27" fill="#bbd5c5">My learning, written down.</text>
+    <text x="42" y="257" font-size="19" fill="#a5f3cf">Python <tspan fill="#577f6c"> / </tspan> Operating systems <tspan fill="#577f6c"> / </tspan> Algorithms</text>
+  </g>
+  <g stroke-linejoin="round">
+    <path d="m770 85 142 21 178-47v172l-178 48-142-23Z" fill="#0a201f" stroke="#3c6e59"/>
+    <path d="M783 66 922 98 1077 49v170L922 267 783 235Z" fill="url(#paper)" stroke="#7bc59e" stroke-width="1.5"/>
+    <path d="M922 98v169" fill="none" stroke="#a5f3cf" stroke-width="1.5"/>
+    <path d="m800 111 96 22m-96 4 72 17m-72 12 96 22m-96 7 65 16" stroke="#769f87" stroke-width="3" opacity=".7"/>
+    <path d="m946 126 103-32m-103 63 80-25m-80 56 103-32m-103 62 68-21" stroke="#a5f3cf" stroke-width="3" opacity=".65"/>
+    <path d="m1021 67 22-7v74l-11-6-11 13Z" fill="#e1b77b"/>
+  </g>
+  <g fill="#e1b77b">
+    <path d="M1117 177h16m-8-8v16" stroke="#e1b77b" stroke-width="2"/>
+    <circle cx="748" cy="214" r="3"/>
+  </g>
+</svg>

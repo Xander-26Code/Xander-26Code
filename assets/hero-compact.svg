@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
   <title id="title">Xander — Haoning Xu</title>
-  <desc id="desc">Learn the internals. Build something useful. AI, systems, and full-stack development.</desc>
+  <desc id="desc">Learn by building. Think by writing. AI, systems, and full-stack development.</desc>
   <defs><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" opacity=".13"/></pattern></defs>
   <rect x="1" y="1" width="718" height="558" rx="22" fill="#0d151c" stroke="#273740" stroke-width="2"/>
   <rect x="380" y="22" width="314" height="195" fill="url(#dots)"/>
@@ -9,8 +9,8 @@
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
     <text x="38" y="244" font-size="126" font-weight="750" letter-spacing="-7" fill="#f1f1e8">Xander<tspan fill="#a5f3cf">.</tspan></text>
     <text x="44" y="295" font-size="29" fill="#a7b7bd">Haoning Xu / Developer &amp; AI explorer</text>
-    <text x="44" y="371" font-size="34" fill="#e0e8e5">Learn the internals.</text>
-    <text x="44" y="418" font-size="34" fill="#a5f3cf">Build something useful.</text>
+    <text x="44" y="371" font-size="34" fill="#e0e8e5">Learn by building.</text>
+    <text x="44" y="418" font-size="34" fill="#a5f3cf">Think by writing.</text>
   </g>
   <path d="M44 465H676" stroke="#2a3b43" stroke-width="2"/>
   <circle cx="51" cy="508" r="5" fill="#a5f3cf"/>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">xander-journal — my learning, written down</title>
+  <desc id="desc">My main project: Python, operating systems, and algorithm learning notes.</desc>
+  <rect x="1" y="1" width="718" height="298" rx="18" fill="#102b27" stroke="#385b4e" stroke-width="2"/>
+  <circle cx="39" cy="41" r="4" fill="#a5f3cf"/>
+  <text x="54" y="47" font-family="Consolas,monospace" font-size="17" letter-spacing="1.5" fill="#a5f3cf">MY MAIN PROJECT / LEARNING NOTES</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="30" y="133" font-size="64" font-weight="700" letter-spacing="-2" fill="#f1f1e8">xander-journal<tspan fill="#a5f3cf"> ↗</tspan></text>
+    <text x="34" y="182" font-size="29" fill="#bbd5c5">My learning, written down.</text>
+    <text x="34" y="263" font-size="22" fill="#a5f3cf">Python <tspan fill="#577f6c"> / </tspan> OS &amp; Linux <tspan fill="#577f6c"> / </tspan> Algorithms</text>
+  </g>
+  <path d="M34 219H686" stroke="#385b4e"/>
+</svg>
