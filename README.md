@@ -5,6 +5,7 @@
 </picture>
 
 <p align="center">
+  <a href="#blog">Blog</a>&nbsp; / &nbsp;
   <a href="#my-learning-journal">Learning journal</a> &nbsp; / &nbsp;
   <a href="#github-in-motion">GitHub stats</a> &nbsp; / &nbsp;
   <a href="#things-ive-built">Projects</a> &nbsp; / &nbsp;
